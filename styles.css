@@ -1,6 +1,7 @@
 body {
   background-color: #d5e1ef;
   font-family: sans-serif;
+  overflow-y: hidden;
 }
 
 .center {
